@@ -10,6 +10,14 @@ html{scroll-behavior:smooth;color:#333;background:#fff;font-family:"Meiryo","Hir
   margin: 0 auto;
   max-width: 1180px;
 }
+h1{
+  padding: 24px;
+  margin: 0 auto;
+  font-size: 20px;
+}
+#addhtml{
+  padding: 24px;
+}
 #addhtml span{
   display: inline-block;
   padding: 0.25rem;
